@@ -1,0 +1,9 @@
+ welcome to the git world
+ git init  #to create git operation file
+ git add . #to add the file to local repository
+ git commit -m #commit the file to the repo
+ git branch #Master or Main
+ git remote add #send the file to the github
+ git push -u origin (branch name)
+ git status #to check the git status
+ 
