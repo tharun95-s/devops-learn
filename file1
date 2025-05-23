@@ -6,4 +6,6 @@
  git remote add #send the file to the github
  git push -u origin (branch name)
  git status #to check the git status
- 
+ git show
+ git log
+ git pull
